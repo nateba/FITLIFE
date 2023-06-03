@@ -27,8 +27,8 @@ criação de fichas, cálculo de imc, quantidade de água, timer de exercicio en
 |------|-----------------------------------------|----|------|
 |RF-01| Integração com uma API que fornece informações sobre cada exercício físico. | Média | :white_check_mark: |
 |RF-02| Demonstração gráfica de como realizar um exercício. | Média | :white_check_mark: |
-|RF-03| O usuário deverá ser capaz de criar e personalizar suas próprias listas de exercícios. | Baixa | :x: |
-|RF-04| Deverá ser possível buscar por um exercício específico. | Alta | :x: |
+|RF-03| O usuário deverá ser capaz de criar e personalizar suas próprias listas de exercícios. | Baixa | :white_check_mark: |
+|RF-04| Deverá ser possível buscar por um exercício específico. | Alta | :white_check_mark: |
 |RF-05| Quando um exercício for aselecionado, o aplicativo mostrará como realiza-lo. | Alta | :x: |
 
 ## Requisitos não funcionais
