@@ -35,7 +35,7 @@ criação de fichas, cálculo de imc, quantidade de água, timer de exercicio en
 |ID    | Descrição do Requisito  | Prioridade | Status: |
 |------|-----------------------------------------|----|------|
 |RNF-01| Feedback deverá ser preciso. | Alta | :x: |
-|RNF-02| As listas de exercícios do usuário deverão estar disponíveis offline. | Alta | :x: |
+|RNF-02| As listas de exercícios do usuário deverão estar disponíveis offline. | Alta | :white_check_mark: |
 
 
 ## Instruções de Utilização:
